@@ -1,0 +1,7 @@
+C:\Users\MosquitoParisi\Desktop\КПК\Тема 8 КПК 3\bin\Debug\Prakticum3.exe.config
+C:\Users\MosquitoParisi\Desktop\КПК\Тема 8 КПК 3\bin\Debug\Prakticum3.exe
+C:\Users\MosquitoParisi\Desktop\КПК\Тема 8 КПК 3\bin\Debug\Prakticum3.pdb
+C:\Users\MosquitoParisi\Desktop\КПК\Тема 8 КПК 3\obj\Debug\Prakticum3.csproj.AssemblyReference.cache
+C:\Users\MosquitoParisi\Desktop\КПК\Тема 8 КПК 3\obj\Debug\Prakticum3.csproj.CoreCompileInputs.cache
+C:\Users\MosquitoParisi\Desktop\КПК\Тема 8 КПК 3\obj\Debug\Prakticum3.exe
+C:\Users\MosquitoParisi\Desktop\КПК\Тема 8 КПК 3\obj\Debug\Prakticum3.pdb
